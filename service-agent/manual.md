@@ -63,6 +63,23 @@
 #### Edit a job
 ![image](https://user-images.githubusercontent.com/59367560/192169907-2b2e2f3b-d5b4-4f28-88d8-40589ee70699.png)
 
+6. Edit Job screen
+  - Job number is shown on the header.
+  - You can edit any job details as below;
+    - Job notes
+    - Service request date
+    - Boiler serial number
+    - Model name
+    - Fuel type
+    - Installed location
+    - Customer name
+    - Customer phone
+    - Customer address
+    - Engineer name
+    - Engineer email
+  - You can add photos by clicking "ADD PHOTO" button.
+  - You can add any part changed needed by clicking "ADD PART CHANGE" button.
+
 ![image](https://user-images.githubusercontent.com/59367560/192169995-f7f2d136-4d12-4996-b202-88e6b7681955.png)
 
 
