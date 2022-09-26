@@ -46,6 +46,20 @@
 #### Details of a seleted job
 ![image](https://user-images.githubusercontent.com/59367560/192169896-bba0f17a-8720-4ebe-b679-d1e2b2c5621e.png)
 
+5. Job Detail screen
+  - Job details are shown as below;
+    - Job number
+    - Status : waiting / completed
+    - Job note
+    - Service requested date
+    - Serial number
+    - Model
+    - Customer name
+    - Customer phone number
+    - Customer address
+  - If you click the "EDIT" button, "Edit Job" screen will be shown.
+  
+
 #### Edit a job
 ![image](https://user-images.githubusercontent.com/59367560/192169907-2b2e2f3b-d5b4-4f28-88d8-40589ee70699.png)
 
