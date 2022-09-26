@@ -129,7 +129,21 @@
   
 ![image](https://user-images.githubusercontent.com/59367560/192169981-7e7a6b2b-b7c7-4e56-902f-1c7835a936f1.png)
 
+13. Job Detail screen
+  - The part change will be added on the job detail screen.
+  - Click the "SUBMIT" button on the bottom.
+
 ### Account
 ![image](https://user-images.githubusercontent.com/59367560/192170007-a83e3cf8-4775-4034-8595-3a998c424f6d.png)
+
+14. Account screen
+  - By clicking Account icon on the main navigator, the account detail screen will be shown.
+  - You can manage your account as below;
+    - Edit account information
+    - Change password
+    - Change profile photo
+    - Sign Out
+    - Delete account
+    
 
 
