@@ -24,13 +24,24 @@
 ### Sign-up and Sign-in
 ![image](https://user-images.githubusercontent.com/59367560/192169853-946d6889-5b6e-4ce0-98f6-d5219d495e96.png)
 
+3. Sign In screen
+  - Please enter your email and password for the log in.
+
 ![image](https://user-images.githubusercontent.com/59367560/192169860-0f454950-8844-4549-9e54-730318e5cccf.png)
 > Login Error with message
+
+  - If any sign in detail is incorrect, the error message will pop up. Please try again with the correct detail. 
 
 ### Job Management
 #### List jobs
 ![image](https://user-images.githubusercontent.com/59367560/192169880-7d086d02-96b6-45fe-9cbe-b36cf28db52b.png)
 
+4. Dashboard screen
+  - Dashboard shows your job list summary. 
+    - Account name
+    - Account email
+    - Total jobs submitted / Awaiting jobs (OPEN) / Completed jobs (CLOSED)
+  - If you click any job listed, the job detail will be shown.
 
 #### Details of a seleted job
 ![image](https://user-images.githubusercontent.com/59367560/192169896-bba0f17a-8720-4ebe-b679-d1e2b2c5621e.png)
