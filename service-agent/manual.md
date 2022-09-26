@@ -63,6 +63,8 @@
 #### Edit a job
 ![image](https://user-images.githubusercontent.com/59367560/192169907-2b2e2f3b-d5b4-4f28-88d8-40589ee70699.png)
 
+![image](https://user-images.githubusercontent.com/59367560/192169995-f7f2d136-4d12-4996-b202-88e6b7681955.png)
+
 6. Edit Job screen
   - Job number is shown on the header.
   - You can edit any job details as below;
@@ -77,14 +79,19 @@
     - Customer address
     - Engineer name
     - Engineer email
-  - You can add photos by clicking "ADD PHOTO" button.
-  - You can add any part changed needed by clicking "ADD PART CHANGE" button.
+  - You can add the relevant images by clicking "ADD PHOTO" button. To take a picture, press the red button on the camera screen.
+  - You can add any part changes needed by clicking "ADD PART CHANGE" button.
 
-![image](https://user-images.githubusercontent.com/59367560/192169995-f7f2d136-4d12-4996-b202-88e6b7681955.png)
 
 
 #### Add a part-change (in a edit of job screen)
 ![image](https://user-images.githubusercontent.com/59367560/192169920-2bbb1016-2efc-46eb-99f4-7b17c2d2e034.png)
+
+7. Add Part Change screen
+  - Click the "SELECT A SYMPTOM" / "SELECT A REPAIR" / "SELECT A PART" buttons. 
+  - Enter at least 3 letters into the search box to see the relevent list for each section.
+  - Choose the item you want to use.
+  - Enter the quantity and click "SELECT SYMPTOM" button to save. 
 
 ![image](https://user-images.githubusercontent.com/59367560/192169928-49c09983-9dfc-4567-ab7a-d83cb6c23675.png)
 
