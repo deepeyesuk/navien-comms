@@ -12,7 +12,7 @@
 ## Screens and Description
 ### Splash Screen
 ![image](https://user-images.githubusercontent.com/59367560/192169797-791f49fe-61ea-48a8-99d3-28c3488e0695.png)
-
+sssss
 ![image](https://user-images.githubusercontent.com/59367560/192169844-7d2b41f2-7101-4fa9-afed-cefc62a13989.png)
 
 
