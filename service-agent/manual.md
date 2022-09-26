@@ -99,20 +99,34 @@
 
 8. Add Part Change screen
   - Click the "SELECT A SYMPTOM" / "SELECT A REPAIR" / "SELECT A PART" buttons. 
-  - Enter at least 3 letters into the search box to see the relevent list for each section.
-  - Choose the item you want to use.
-  - Enter the quantity and click "SELECT SYMPTOM" button to save. 
 
 ![image](https://user-images.githubusercontent.com/59367560/192169938-b8ef0ccc-0dc8-4d37-8a6e-81ce30998956.png)
 
+9. Symptom search screen
+  - Type at least 3 letters into the search box to see the relevent list for each section.
+  - Choose the item you want to use.
+
 ![image](https://user-images.githubusercontent.com/59367560/192169949-2abf0caf-4696-4cf9-86a3-b7a57e32157a.png)
+
+10. Repair search screen
+  - Type at least 3 letters into the search box to see the relevent list for each section.
+  - Choose the item you want to use.
 
 ![image](https://user-images.githubusercontent.com/59367560/192169959-745f3c76-6ffc-4f2a-87c7-de35f1697c9a.png)
 
+11. Part search screen
+  - Type at least 3 letters into the search box to see the relevent list for each section.
+  - Choose the item you want to use.
+
 ![image](https://user-images.githubusercontent.com/59367560/192169962-b877a949-870d-45b8-a3c5-881e23de9c6f.png)
+
+12. Add Part Change screen
+  - Enter the quantity in digit number.
 
 ![image](https://user-images.githubusercontent.com/59367560/192169972-8ea83691-4ac8-490e-8094-4edfabf0b721.png)
 
+  - Click the "ADD PART CHANGE" button to save.
+  
 ![image](https://user-images.githubusercontent.com/59367560/192169981-7e7a6b2b-b7c7-4e56-902f-1c7835a936f1.png)
 
 ### Account
