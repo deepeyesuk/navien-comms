@@ -80,20 +80,28 @@
     - Engineer name
     - Engineer email
   - You can add the relevant images by clicking "ADD PHOTO" button. To take a picture, press the red button on the camera screen.
-  - You can add any part changes needed by clicking "ADD PART CHANGE" button.
 
 
 
 #### Add a part-change (in a edit of job screen)
 ![image](https://user-images.githubusercontent.com/59367560/192169920-2bbb1016-2efc-46eb-99f4-7b17c2d2e034.png)
 
-7. Add Part Change screen
+7. Edit Job screen - Part Changes
+  - Part Changes section shows the informations as below;
+    - Symptom code
+    - Repair code
+    - Part name and code
+    - Part Quantity
+ - You can add any part changes needed by clicking "ADD PART CHANGE" button.
+ - To delete any part, click the bin icon on the right.
+
+![image](https://user-images.githubusercontent.com/59367560/192169928-49c09983-9dfc-4567-ab7a-d83cb6c23675.png)
+
+8. Add Part Change screen
   - Click the "SELECT A SYMPTOM" / "SELECT A REPAIR" / "SELECT A PART" buttons. 
   - Enter at least 3 letters into the search box to see the relevent list for each section.
   - Choose the item you want to use.
   - Enter the quantity and click "SELECT SYMPTOM" button to save. 
-
-![image](https://user-images.githubusercontent.com/59367560/192169928-49c09983-9dfc-4567-ab7a-d83cb6c23675.png)
 
 ![image](https://user-images.githubusercontent.com/59367560/192169938-b8ef0ccc-0dc8-4d37-8a6e-81ce30998956.png)
 
