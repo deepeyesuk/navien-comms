@@ -8,6 +8,7 @@
   - Alert messages on Job Status
   - Part-change controllers updated
   - APIs refined
+  - System updated and Minor bugfixs
 
 - Communication
   - CIC에서 Create Job API 콜을 통해 CIC로부터 받아오는 정보들 수정 불가
