@@ -1,36 +1,48 @@
 # UX Manual
 ## Overview
-- Version : 1.1.0
-- Updated at : 2022.09.25
+- Version : 1.2.2
+- Updated at : 2022.10.31
 
-## User Credentials
-- Test User
-  - Username : testuser101.apps@gmail.com
-  - Password : Password
-  > this is shared with Google for a Android App Release
+## Install Mobile App
+- Android : https://play.google.com/store/apps/details?id=com.navien.serviceagent&gl=GB
+<img width="398" alt="image" src="https://user-images.githubusercontent.com/59367560/199091001-9e4b024a-cd71-4d70-a2f0-c639603aba23.png">
 
-## Screens and Description
+- IOS :
+ 
+## Screens and Description (based on Android)
 ### Splash Screen
 ![image](https://user-images.githubusercontent.com/59367560/192169797-791f49fe-61ea-48a8-99d3-28c3488e0695.png)
 
-1. Splash screen
-  - Please wait for the loading to the Sign In screen.
+> Please wait for the loading to the Sign In screen.
   
 ![image](https://user-images.githubusercontent.com/59367560/192169844-7d2b41f2-7101-4fa9-afed-cefc62a13989.png)
 
-2. Sign Up / Sign In screen
-  - Please click the Sing In button.
+### Sign Up Process
+1) Create a service agent at CIC
+2) Invitation email will be sent to the created agent
+3) Install the mobile app via the above app store link
+4) Click 'Sign up' button at the first sign-in/sign-up screen
+   <img width="365" alt="image" src="https://user-images.githubusercontent.com/59367560/199114810-834bb77e-7e62-4cae-ba3c-0e8f289343de.png">
 
-### Sign-up and Sign-in
-![image](https://user-images.githubusercontent.com/59367560/192169853-946d6889-5b6e-4ce0-98f6-d5219d495e96.png)
+6) Sign up
+   > Name and Password are quired
+   > Password must have a mix of capital letters and lowercase
+   <img width="371" alt="image" src="https://user-images.githubusercontent.com/59367560/199114898-fc0d64f9-c6fa-4131-95bd-0a437072b746.png">
 
-3. Sign In screen
-  - Please enter your email and password for the log in.
+7) Activation code will be sent to the email
+8) Once activation is completed, user will be at the sign-in screen
+9) Please enter your email and password for the log in.
+   <img width="370" alt="image" src="https://user-images.githubusercontent.com/59367560/199114989-5618788c-0559-4274-94d7-1699f2bb8ea1.png">
 
 ![image](https://user-images.githubusercontent.com/59367560/192169860-0f454950-8844-4549-9e54-730318e5cccf.png)
-> Login Error with message
 
+> Login Error with message
   - If any sign in detail is incorrect, the error message will pop up. Please try again with the correct detail. 
+
+> Test User Credentials
+  - Username : testuser101.apps@gmail.com
+  - Password : Password
+  > this is shared with Google for a Android App Release
 
 ### Job Management
 #### List jobs
