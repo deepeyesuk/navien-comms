@@ -14,8 +14,6 @@
 <img width="364" alt="image" src="https://user-images.githubusercontent.com/59367560/199115244-01f1988f-dd4d-45bf-996a-d584f4fdf68e.png">
 
 > Please wait for the loading to the Sign In screen.
-  
-![image](https://user-images.githubusercontent.com/59367560/192169844-7d2b41f2-7101-4fa9-afed-cefc62a13989.png)
 
 ### Sign Up Process
 1) Create a service agent at CIC
