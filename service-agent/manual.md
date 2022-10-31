@@ -11,7 +11,7 @@
  
 ## Screens and Description (based on Android)
 ### Splash Screen
-![image](https://user-images.githubusercontent.com/59367560/192169797-791f49fe-61ea-48a8-99d3-28c3488e0695.png)
+<img width="364" alt="image" src="https://user-images.githubusercontent.com/59367560/199115244-01f1988f-dd4d-45bf-996a-d584f4fdf68e.png">
 
 > Please wait for the loading to the Sign In screen.
   
@@ -22,17 +22,17 @@
 2) Invitation email will be sent to the created agent
 3) Install the mobile app via the above app store link
 4) Click 'Sign up' button at the first sign-in/sign-up screen
-   <img width="365" alt="image" src="https://user-images.githubusercontent.com/59367560/199114810-834bb77e-7e62-4cae-ba3c-0e8f289343de.png">
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/59367560/199114810-834bb77e-7e62-4cae-ba3c-0e8f289343de.png">
 
 6) Sign up
-   > Name and Password are quired
-   > Password must have a mix of capital letters and lowercase
-   <img width="371" alt="image" src="https://user-images.githubusercontent.com/59367560/199114898-fc0d64f9-c6fa-4131-95bd-0a437072b746.png">
+> Name and Password are quired
+> Password must have a mix of capital letters and lowercase
+<img width="371" alt="image" src="https://user-images.githubusercontent.com/59367560/199114898-fc0d64f9-c6fa-4131-95bd-0a437072b746.png">
 
 7) Activation code will be sent to the email
 8) Once activation is completed, user will be at the sign-in screen
 9) Please enter your email and password for the log in.
-   <img width="370" alt="image" src="https://user-images.githubusercontent.com/59367560/199114989-5618788c-0559-4274-94d7-1699f2bb8ea1.png">
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/59367560/199114989-5618788c-0559-4274-94d7-1699f2bb8ea1.png">
 
 ![image](https://user-images.githubusercontent.com/59367560/192169860-0f454950-8844-4549-9e54-730318e5cccf.png)
 
