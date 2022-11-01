@@ -1,6 +1,19 @@
 # Service Agent Release notes
 
-### 25/10/2022 (expected)
+### 01/11/2022
+- Version : 1.2.2
+- Code: 22(android), 1(IOS)
+- Change history
+  - CIC/Mobile APIs updated
+  - Additional fields (estimatedSymptom, customerComments, etc) added
+  - Part-changes updated
+  - Validation message bugfix
+  - System and package updated
+
+- Communication
+
+
+### 25/10/2022
 - Version : 1.2.1
 - Code: 21(android), 1(IOS)
 - Change history
