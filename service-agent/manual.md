@@ -211,11 +211,12 @@
 
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199963884-8af6f500-34f3-48be-ab96-4c75e8949f12.png">
 
-- Click the "SUBMIT" button at the bottom.
+- Click the "SUBMIT" button at the bottom to save the editing.
 
 
 ### Account
-![image](https://user-images.githubusercontent.com/59367560/192170007-a83e3cf8-4775-4034-8595-3a998c424f6d.png)
+
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199968790-2082208c-6f2c-476a-a33a-56d47195aa9c.png">
 
 16. Account screen
   - By clicking Account icon on the main navigator, the account detail screen will be shown.
