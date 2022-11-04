@@ -210,7 +210,8 @@
 15. Job Edit Screen
 
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199963884-8af6f500-34f3-48be-ab96-4c75e8949f12.png">
-  - Click the "SUBMIT" button at the bottom.
+
+- Click the "SUBMIT" button at the bottom.
 
 
 ### Account
