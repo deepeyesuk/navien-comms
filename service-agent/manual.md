@@ -117,10 +117,9 @@
     - Customer address
     - Customer postcode
     - Customer country
-    - Add symptoms 
+    - Add repair
     - Add photos
-    
-- You can add the relevant images by clicking "ADD PHOTO" button. To take a picture, press the red button on the camera screen.
+- To add a relevant repair information, please click the "Add Repair" button.
 
 #### Add Repairs (in the Job Edit screen)
 
@@ -142,7 +141,7 @@
 
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199959339-09dc7170-a63f-44c3-a085-6259a6393211.png">
 
-- Click the "SELECT A SYMPTOM"
+- Please click the "SELECT A SYMPTOM". 
 
 9. Symptom search screen
 
@@ -150,38 +149,74 @@
 
 - Type at least 3 letters in the search box to see the relevent list for the symptom.
 - Click the symptom item you want to use.
-
-![image](https://user-images.githubusercontent.com/59367560/192169949-2abf0caf-4696-4cf9-86a3-b7a57e32157a.png)
+- You will be back to the previous screen, then please click the "SELECT A REPAIR".
 
 10. Repair search screen
-  - Type at least 3 letters into the search box to see the relevent list for each section.
-  - Choose the item you want to use.
 
-![image](https://user-images.githubusercontent.com/59367560/192169959-745f3c76-6ffc-4f2a-87c7-de35f1697c9a.png)
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199960801-a6496aea-1a61-40fb-a218-f31a7712f052.png">
+
+  - Type at least 3 letters into the search box to see the relevent list for the repair.
+  - Click the repair item you want to use.
+  - You will be back to the previous screen, then please click the "SELECT A PART" if applicable.
+  - If you don't need any part change, click the + button to add a quantity. Then click the "ADD REPAIR" button at the bottom to save the information.  
+
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199962549-067317e0-e1d9-4f6c-8192-edcefb87bde2.png">
+
+> The screen showing ready to save
 
 11. Part search screen
-  - Type at least 3 letters into the search box to see the relevent list for each section.
-  - Choose the item you want to use.
 
-![image](https://user-images.githubusercontent.com/59367560/192169962-b877a949-870d-45b8-a3c5-881e23de9c6f.png)
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199962817-3bf7b364-d81f-4170-afcf-89be8ffb568d.png">
 
-12. Add Part Change screen
-  - Enter the quantity in digit number.
+  - Type at least 3 letters into the search box to see the relevent list for the part change.
+  - Click the part you want to use.
+  - You will be back to the previous screen.
 
-![image](https://user-images.githubusercontent.com/59367560/192169972-8ea83691-4ac8-490e-8094-4edfabf0b721.png)
+12. Add Repair screen
 
-  - Click the "ADD PART CHANGE" button to save.
-  
-![image](https://user-images.githubusercontent.com/59367560/192169981-7e7a6b2b-b7c7-4e56-902f-1c7835a936f1.png)
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199962549-067317e0-e1d9-4f6c-8192-edcefb87bde2.png">
+
+  - Enter the quantity by clicking +/- buttons.
+  - "Ready to add a symptom" message will be shown.  
+  - Click the "ADD REPAIR" button at the bottom to save.
+  - You will be back to the Job Detail screen.
 
 13. Job Detail screen
-  - The part change will be added on the job detail screen.
-  - Click the "SUBMIT" button on the bottom.
+
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199955375-c819593f-36c8-4cb3-8b52-349d011ba19c.png">
+
+  - The symptom has been added on the job detail screen.
+  - You can click "ADD PHOTO" button to take a relevant picture.
+
+#### Add Photo (in the Job Edit screen)
+
+14. Add Photo (Camera) screen
+
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199965474-1edaa01b-ad88-49b8-b224-3701439e8000.png">
+
+- Camara will be active then please click the red button at the bottom to take a picture. 
+- Please wait until attachment finishes uploading. 
+
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199966388-fba4fd0f-55ca-42ad-9866-eb18929b4bce.png">
+
+> The green message will pop up when the upload has completed. 
+
+- You will be back to the previouse screen.
+- To add another image, please click "ADD PHOTO" button again.
+- To delete the image, please click "X" icon on the top right of the image. 
+
+#### Submit (in the Job Edit screen)
+
+15. Job Edit Screen
+
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199963884-8af6f500-34f3-48be-ab96-4c75e8949f12.png">
+  - Click the "SUBMIT" button at the bottom.
+
 
 ### Account
 ![image](https://user-images.githubusercontent.com/59367560/192170007-a83e3cf8-4775-4034-8595-3a998c424f6d.png)
 
-14. Account screen
+16. Account screen
   - By clicking Account icon on the main navigator, the account detail screen will be shown.
   - You can manage your account as below;
     - Edit account information
