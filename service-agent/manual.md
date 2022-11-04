@@ -32,7 +32,7 @@
 9) Please enter your email and password for the log in.
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/59367560/199114989-5618788c-0559-4274-94d7-1699f2bb8ea1.png">
 
-![image](https://user-images.githubusercontent.com/59367560/192169860-0f454950-8844-4549-9e54-730318e5cccf.png)
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/59367560/192169860-0f454950-8844-4549-9e54-730318e5cccf.png">
 
 > Login Error with message
   - If any sign in detail is incorrect, the error message will pop up. Please try again with the correct detail. 
@@ -44,14 +44,18 @@
 
 ### Job Management
 #### List jobs
-![image](https://user-images.githubusercontent.com/59367560/192169880-7d086d02-96b6-45fe-9cbe-b36cf28db52b.png)
 
 4. Dashboard screen
+
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199950811-5cc6e1e9-16ab-4a38-a66c-ffec4e236667.png">
+
   - Dashboard shows your job list summary. 
     - Account name
-    - Account email
-    - Total jobs submitted / Awaiting jobs (OPEN) / Completed jobs (CLOSED)
-  - If you click any job listed, the job detail will be shown.
+    - Click the ALL / OPEN / CLOSED buttton on the bar to see the list of jobs
+    - ALL : List of total jobs submitted 
+    - OPEN : List of awaiting jobs 
+    - CLOSED : List of completed jobs
+  - If you click any job on the list, the job detail will be shown.
 
 #### Details of a seleted job
 ![image](https://user-images.githubusercontent.com/59367560/192169896-bba0f17a-8720-4ebe-b679-d1e2b2c5621e.png)
