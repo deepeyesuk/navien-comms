@@ -55,22 +55,34 @@
     - ALL : List of total jobs submitted 
     - OPEN : List of awaiting jobs 
     - CLOSED : List of completed jobs
-  - If you click any job on the list, the job detail will be shown.
+    - If you click any job on the list, the job detail will be shown.
+    
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199952678-59a92068-10dc-46e0-b745-57d44b43cb10.png">
 
-#### Details of a seleted job
-![image](https://user-images.githubusercontent.com/59367560/192169896-bba0f17a-8720-4ebe-b679-d1e2b2c5621e.png)
+> OPEN job list
+
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199952720-8444be0f-e228-40af-9cad-163af07b5735.png">
+
+> CLOSED job list
+
+
+
+#### Job details
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199953056-c8f92bea-cd5f-43bd-b39c-ee12fe48b02d.png">
 
 5. Job Detail screen
   - Job details are shown as below;
     - Job number
     - Status : waiting / completed
-    - Job note
-    - Service requested date
-    - Serial number
+    - Job notes
+    - Service request date
+    - Product ID
     - Model
+    - Serial number
+    - Fuel Type
     - Customer name
     - Customer phone number
-    - Customer address
+    - Customer address and postcode
   - If you click the "EDIT" button, "Edit Job" screen will be shown.
   
 
