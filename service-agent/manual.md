@@ -16,19 +16,19 @@
 > Please wait for the loading to the Sign In screen.
 
 ### Sign Up Process
-1) Create a service agent at CIC
-2) Invitation email will be sent to the created agent
-3) Install the mobile app via the above app store link
-4) Click 'Sign up' button at the first sign-in/sign-up screen
+1) Create a service agent at CIC.
+2) Invitation email will be sent to the created agent.
+3) Install the mobile app via the above app store link.
+4) Click 'Sign up' button at the first sign-in/sign-up screen.
 <img width="365" alt="image" src="https://user-images.githubusercontent.com/59367560/199114810-834bb77e-7e62-4cae-ba3c-0e8f289343de.png">
 
 6) Sign up
-> Name and Password are quired
-> Password must have a mix of capital letters and lowercase
+> Name and Password are required.
+> Password must have a mix of capital letters and lowercase.
 <img width="371" alt="image" src="https://user-images.githubusercontent.com/59367560/199114898-fc0d64f9-c6fa-4131-95bd-0a437072b746.png">
 
-7) Activation code will be sent to the email
-8) Once activation is completed, user will be at the sign-in screen
+7) Activation code will be sent to the email.
+8) Once activation is completed, user will be at the sign-in screen.
 9) Please enter your email and password for the log in.
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/59367560/199114989-5618788c-0559-4274-94d7-1699f2bb8ea1.png">
 
@@ -40,7 +40,7 @@
 > Test User Credentials
   - Username : testuser101.apps@gmail.com
   - Password : Password
-  > this is shared with Google for a Android App Release
+  > this is shared with Google for a Android App Release.
 
 ### Job Management
 #### List jobs
@@ -49,13 +49,13 @@
 
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199950811-5cc6e1e9-16ab-4a38-a66c-ffec4e236667.png">
 
-  - Dashboard shows your job list summary. 
+- Dashboard shows your job list summary. 
     - Account name
     - Click the ALL / OPEN / CLOSED buttton on the bar to see the list of jobs
     - ALL : List of total jobs submitted 
     - OPEN : List of awaiting jobs 
-    - CLOSED : List of completed jobs
-    - If you click any job on the list, the job detail will be shown.
+    - CLOSED : List of completed jobs 
+- If you click any job on the list, the job detail will be shown.
     
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199952678-59a92068-10dc-46e0-b745-57d44b43cb10.png">
 
@@ -68,10 +68,12 @@
 
 
 #### Job details
-<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199953056-c8f92bea-cd5f-43bd-b39c-ee12fe48b02d.png">
 
 5. Job Detail screen
-  - Job details are shown as below;
+
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199953056-c8f92bea-cd5f-43bd-b39c-ee12fe48b02d.png">
+
+- Job details are shown as below;
     - Job number
     - Status : waiting / completed
     - Job notes
@@ -83,34 +85,36 @@
     - Customer name
     - Customer phone number
     - Customer address and postcode
-  - If you click the "EDIT" button, "Edit Job" screen will be shown.
+- If you click the "EDIT" button, "Edit Job" screen will be shown.
   
 
 #### Edit a job
-![image](https://user-images.githubusercontent.com/59367560/192169907-2b2e2f3b-d5b4-4f28-88d8-40589ee70699.png)
-
-![image](https://user-images.githubusercontent.com/59367560/192169995-f7f2d136-4d12-4996-b202-88e6b7681955.png)
 
 6. Edit Job screen
+
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199954414-e3188b33-a71b-4971-90ea-bec203f663db.png">
+
   - Job number is shown on the header.
   - You can edit any job details as below;
     - Job notes
     - Service request date
-    - Boiler serial number
+    - Product ID
     - Model name
+    - Serial number
     - Fuel type
-    - Installed location
     - Customer name
     - Customer phone
     - Customer address
-    - Engineer name
-    - Engineer email
+    - Customer postcode
+    - Customer country
+    - Add symptoms 
+    - Add photos
   - You can add the relevant images by clicking "ADD PHOTO" button. To take a picture, press the red button on the camera screen.
 
+#### Add Symptoms (in the Job Edit screen)
 
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199955375-c819593f-36c8-4cb3-8b52-349d011ba19c.png">
 
-#### Add a part-change (in a edit of job screen)
-![image](https://user-images.githubusercontent.com/59367560/192169920-2bbb1016-2efc-46eb-99f4-7b17c2d2e034.png)
 
 7. Edit Job screen - Part Changes
   - Part Changes section shows the informations as below;
