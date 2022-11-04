@@ -49,12 +49,20 @@
 
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199950811-5cc6e1e9-16ab-4a38-a66c-ffec4e236667.png">
 
-- Dashboard shows your job list summary. 
+- Dashboard shows your job summary. 
     - Account name
-    - Click the ALL / OPEN / CLOSED buttton on the bar to see the list of jobs
+    - Total number of your jobs
+    - The number of open jobs
+    - The number of closed jobs
+    - Most recent job summary list including customer name, postcode and request date. 
+    - Blue tick icon shows jobs completed.
+    - Orange clock icon shows job opening.
+    
+- Click the ALL / OPEN / CLOSED buttton on the bar to see the relevant list of jobs.
     - ALL : List of total jobs submitted 
     - OPEN : List of awaiting jobs 
     - CLOSED : List of completed jobs 
+    
 - If you click any job on the list, the job detail will be shown.
     
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199952678-59a92068-10dc-46e0-b745-57d44b43cb10.png">
@@ -73,7 +81,7 @@
 
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199953056-c8f92bea-cd5f-43bd-b39c-ee12fe48b02d.png">
 
-- Job details are shown as below;
+- Job details are shown;
     - Job number
     - Status : waiting / completed
     - Job notes
@@ -85,6 +93,7 @@
     - Customer name
     - Customer phone number
     - Customer address and postcode
+    
 - If you click the "EDIT" button, "Edit Job" screen will be shown.
   
 
@@ -94,8 +103,9 @@
 
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199954414-e3188b33-a71b-4971-90ea-bec203f663db.png">
 
-  - Job number is shown on the header.
-  - You can edit any job details as below;
+- Job number is shown on the header.
+
+- You can edit any job details as below;
     - Job notes
     - Service request date
     - Product ID
@@ -109,32 +119,37 @@
     - Customer country
     - Add symptoms 
     - Add photos
-  - You can add the relevant images by clicking "ADD PHOTO" button. To take a picture, press the red button on the camera screen.
+    
+- You can add the relevant images by clicking "ADD PHOTO" button. To take a picture, press the red button on the camera screen.
 
-#### Add Symptoms (in the Job Edit screen)
+#### Add Repairs (in the Job Edit screen)
+
+7. Edit Job screen - Repairs
 
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199955375-c819593f-36c8-4cb3-8b52-349d011ba19c.png">
 
-
-7. Edit Job screen - Part Changes
-  - Part Changes section shows the informations as below;
-    - Symptom code
-    - Repair code
+- Repairs section shows the informations;
+    - Symptom name and code
+    - Repair name and code
     - Part name and code
-    - Part Quantity
- - You can add any part changes needed by clicking "ADD PART CHANGE" button.
- - To delete any part, click the bin icon on the right.
+    - Part quantity
+    
+- To delete any repair contents, click the delete button on the right.
+- You can amend the part quantities by -/+ buttons.    
+- You can add a repair by clicking "ADD REPAIR" button.
 
-![image](https://user-images.githubusercontent.com/59367560/192169928-49c09983-9dfc-4567-ab7a-d83cb6c23675.png)
+8. Add Repair screen
 
-8. Add Part Change screen
-  - Click the "SELECT A SYMPTOM" / "SELECT A REPAIR" / "SELECT A PART" buttons. 
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199959339-09dc7170-a63f-44c3-a085-6259a6393211.png">
 
-![image](https://user-images.githubusercontent.com/59367560/192169938-b8ef0ccc-0dc8-4d37-8a6e-81ce30998956.png)
+- Click the "SELECT A SYMPTOM"
 
 9. Symptom search screen
-  - Type at least 3 letters into the search box to see the relevent list for each section.
-  - Choose the item you want to use.
+
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/9049740/199959540-06485b2c-4bcc-425b-9ba6-c3520d6782db.png">
+
+- Type at least 3 letters in the search box to see the relevent list for the symptom.
+- Click the symptom item you want to use.
 
 ![image](https://user-images.githubusercontent.com/59367560/192169949-2abf0caf-4696-4cf9-86a3-b7a57e32157a.png)
 
