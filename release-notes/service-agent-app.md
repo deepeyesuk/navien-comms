@@ -1,5 +1,11 @@
 # Service Agent Release notes
 
+### 14/11/2022
+- Version : 1.2.3
+- Code:
+- Change history
+  - Engineer full name and gas safety number added on edit screen
+
 ### 01/11/2022
 - Version : 1.2.2
 - Code: 22(android), 1(IOS)
