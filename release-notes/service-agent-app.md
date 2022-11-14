@@ -6,6 +6,7 @@
 - Change history
   - Engineer full name and gas safety number added on edit screen
   - 서버쪽에서 CIC API 호출함으로 시스템 안정성을 높임. 모바일에서 CIC API 호출 삭제.
+  - PartChanges schema updated on Mobile and APIs, named 'Services'
 
 ### 01/11/2022
 - Version : 1.2.2
