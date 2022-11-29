@@ -1,5 +1,16 @@
 # Service Agent Release notes
 
+### 29/11/2022
+- Version : 1.2.5
+- Code:
+- Change history
+  - services with part-changes updated
+  - detail/edit screen updated
+  - Tab ordering updated
+  - DateTime into UK local time
+  - Minor bugfix
+  - System and package updated
+
 ### 14/11/2022
 - Version : 1.2.3
 - Code:
