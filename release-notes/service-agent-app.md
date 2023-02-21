@@ -1,5 +1,18 @@
 # Service Agent Release notes
 
+### 17/02/2023
+- Version : 1.3.2
+- Code:
+- Change history
+  - Estimated symptom updated with symptom name
+  - Define a boiler type by Serial Number
+  - Display a preset 'Fuel Type' group by the boiler type
+  - Set a certificate by the boiler Type
+  - Minor bugfix and tweaks
+  - System and package updated
+  
+...
+
 ### 29/11/2022
 - Version : 1.2.5
 - Code:
