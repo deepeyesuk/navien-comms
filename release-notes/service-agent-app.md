@@ -1,5 +1,16 @@
 # Service Agent Release notes
 
+### 28/02/2023
+- Version : 1.3.3
+- Code:
+- Change history
+  - A boiler-readings on each job is categorised automatically by boiler-type which is predefined by serial number
+  - Job updated to CIC includes the boiler-readings
+  - Camera/Preview UX updated to retake a picture
+  - Bugfix on signup
+  - System and package updated
+  
+
 ### 17/02/2023
 - Version : 1.3.2
 - Code:
