@@ -4,11 +4,11 @@
 - Version : 1.3.3
 - Code:
 - Change history
-  - A boiler-readings on each job is categorised automatically by boiler-type which is predefined by serial number
-  - Job updated to CIC includes the boiler-readings
-  - Camera/Preview UX updated to retake a picture
-  - Bugfix on signup
-  - System and package updated
+  - Boiler readings for each job are automatically categorized based on the predefined serial number for each boiler type. 
+  - Jobs that are updated to CIC now include the boiler readings. 
+  - The camera/preview user experience has been updated to allow for picture retakes. 
+  - A bug in the signup process has been fixed
+  - The system and packages have been updated  
   
 
 ### 17/02/2023
