@@ -1,5 +1,16 @@
 # Service Agent Release notes
 
+### 06/03/2023
+- Version : 1.3.4
+- Code:
+- Change history
+  - installation date field and apis have been added into job data
+  - bugfix of the certificagte validation on a job completion 
+  - a new feature of photo selection from phone album
+  - serialnumber-model mapping table is updated
+  - The system and packages have been updated
+
+
 ### 28/02/2023
 - Version : 1.3.3
 - Code:
