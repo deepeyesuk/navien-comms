@@ -4,11 +4,11 @@
 - Version : 1.3.4
 - Code:
 - Change history
-  - installation date field and apis have been added into job data
-  - bugfix of the certificagte validation on a job completion 
-  - a new feature of photo selection from phone album
-  - serialnumber-model mapping table is updated
-  - The system and packages have been updated
+  - Added an installation date field and APIs to the job data. 
+  - Fixed a bug related to certificate validation upon job completion. 
+  - Introduced a new feature that allows users to select photos from their phone album. 
+  - The serial number-model mapping table has been updated. 
+  - Updated the system and packages.
 
 
 ### 28/02/2023
