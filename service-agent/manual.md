@@ -3,11 +3,11 @@
 - Version : 1.2.2
 - Updated at : 2022.10.31
 
-## Install Mobile App
+## App Installation
 - Android : https://play.google.com/store/apps/details?id=com.navien.serviceagent&gl=GB
 <img width="398" alt="image" src="https://user-images.githubusercontent.com/59367560/199091001-9e4b024a-cd71-4d70-a2f0-c639603aba23.png">
 
-- IOS :
+- IOS : https://apps.apple.com/gb/app/navien-service-agent/id6443465986
  
 ## Screens and Description (based on Android)
 ### Splash Screen
