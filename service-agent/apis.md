@@ -50,10 +50,34 @@ NONE
 * 400 Bad Request: if the request is malformed
 * 403 Forbidden: if the correct api key is not in the request header
 * 500 Internal Server Error (please contact [DEEPEYES App Support](app@deepeyes.co.uk))
-* 201 created
+* 201 Created
 
 #### Example
 <img width="723" alt="image" src="https://user-images.githubusercontent.com/59367560/185818969-dbdbf158-7d5a-4f19-962e-e31500380b23.png">
+
+### Delete User
+(CIC -> Service Agent UK)
+
+To effectively prevent a user from signing into the app, you need to delete their existing user record from both the database and the login system. This action will ensure that the user's account is removed entirely and they will no longer have access to sign in.
+
+#### Method / Endpoint
+```javascript
+DELETE /users/:user-email?username=:username
+```
+
+#### Parameters
+* :user-email: the email address of the user
+* :username: the username. It is in GUID format like `08e37d2d-5285-4e57-a309-f74e50b156af`
+
+#### Response
+* 400 Bad Request: if the request is malformed
+* 403 Forbidden: if the correct api key is not in the request header
+* 500 Internal Server Error (please contact [DEEPEYES App Support](app@deepeyes.co.uk))
+* 200 OK
+
+#### Example
+<img width="723" alt="image" src="https://user-images.githubusercontent.com/59367560/185818969-dbdbf158-7d5a-4f19-962e-e31500380b23.png">
+
 
 ### Create Job 
 (CIC -> Service Agent UK)
