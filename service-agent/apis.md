@@ -76,7 +76,9 @@ DELETE /users/:user-email?username=:username
 * 200 OK
 
 #### Example
-<img width="723" alt="image" src="https://user-images.githubusercontent.com/59367560/185818969-dbdbf158-7d5a-4f19-962e-e31500380b23.png">
+
+![image](https://github.com/deepeyesuk/navien-comms/assets/840427/1905b956-5a97-4508-8b16-027688e9bde7)
+
 
 
 ### Create Job 
