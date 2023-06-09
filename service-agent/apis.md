@@ -18,6 +18,8 @@ Environment of API
 | API Name | direction | called at |
 | -------- | ------ | ------ |
 | [Create user](#create-user) | CIC -> Service Agent UK | when a new account is created at CIC |
+| [Cancel user](#cancel-user) | CIC -> Service Agent UK | when a use leaves and the head office removes the user's access to the app |
+| [Delete user](#delete-user) | App -> Service Agent UK | when a user wants to delete the account permanently |
 | [Create job](#create-job) | CIC -> Service Agent UK | when a job is created at CIC |
 | [Update job](#update-job) | Service Agent UK -> CIC | when a job is updated or completed |
 
@@ -55,8 +57,29 @@ NONE
 #### Example
 <img width="723" alt="image" src="https://user-images.githubusercontent.com/59367560/185818969-dbdbf158-7d5a-4f19-962e-e31500380b23.png">
 
-### Delete User
+
+### Cancel User
 (CIC -> Service Agent UK)
+
+To effectively prevent a user from signing into the app when the user leaves, you need to delete their existing user record from both the database and the login system. This action will ensure that the user's account is removed entirely and they will no longer have access to sign in.
+
+#### Method / Endpoint
+```javascript
+POST /users/:user-email/cancel
+```
+
+#### Parameters
+* :user-email: the email address of the user
+
+#### Response
+* 400 Bad Request: if the request is malformed
+* 403 Forbidden: if the correct api key is not in the request header
+* 500 Internal Server Error (please contact [DEEPEYES App Support](app@deepeyes.co.uk))
+* 200 OK
+
+
+### Delete User
+(App -> Service Agent UK)
 
 To effectively prevent a user from signing into the app, you need to delete their existing user record from both the database and the login system. This action will ensure that the user's account is removed entirely and they will no longer have access to sign in.
 
@@ -78,7 +101,6 @@ DELETE /users/:user-email?username=:username
 #### Example
 
 ![image](https://github.com/deepeyesuk/navien-comms/assets/840427/1905b956-5a97-4508-8b16-027688e9bde7)
-
 
 
 ### Create Job 
