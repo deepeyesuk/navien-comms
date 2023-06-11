@@ -22,6 +22,7 @@ Environment of API
 | [Delete user](#delete-user) | App -> Service Agent UK | when a user wants to delete the account permanently |
 | [Create job](#create-job) | CIC -> Service Agent UK | when a job is created at CIC |
 | [Update job](#update-job) | Service Agent UK -> CIC | when a job is updated or completed |
+| [Cancel job](#cancel-job) | CIC -> Service Agent UK | when a job is cancelled |
 
 ### Create User
 (CIC -> Service Agent UK)
@@ -196,3 +197,28 @@ POST /API/szJobs.json
 }
 ```
 
+
+### Cancel Job 
+(CIC -> Service Agent UK)
+Specification : 
+- Navien Cervice Manager WANT TO cancel a job when the job needs to be cancelled with any reason. 
+- It will be handled only by CIC system via DOING click 'Send to APP' button on a job-cancel page of CIC
+  * Please see the below REST API section with regards to How to call the API
+- Once the job is cancelled, the users aligned with the company will be notified via email
+- APP users who have ever been assigned with the related jobNo can see this cancelled job under 'completed' tab on the app.
+
+#### Method / Endpoint
+```bash
+POST https://{{service-agent-base-url}}/jobs/:jobNo/cancel
+```
+> Please see the service-agent-base-url via 'overview' section of this document.
+
+#### Payload
+```json
+{
+  "companyId": "<company id (e.g. CT01)>"
+}
+```
+
+#### example
+![image](https://github.com/deepeyesuk/navien-comms/assets/59367560/86fa9e5f-41b2-4a1c-935d-7362d121a76e)
