@@ -18,7 +18,7 @@ Environment of API
 | API Name | direction | called at |
 | -------- | ------ | ------ |
 | [Create user](#create-user) | CIC -> Service Agent UK | when a new account is created at CIC |
-| [Delete user](#cancel-user-cic) | CIC -> Service Agent UK | when a use leaves and the head office removes the user's access to the app |
+| [Delete user](#delete-user-cic) | CIC -> Service Agent UK | when a use leaves and the head office removes the user's access to the app |
 | [Delete user](#delete-user-app) | App -> Service Agent UK | when a user wants to delete the account permanently |
 | [Create job](#create-job) | CIC -> Service Agent UK | when a job is created at CIC |
 | [Update job](#update-job) | Service Agent UK -> CIC | when a job is updated or completed |
