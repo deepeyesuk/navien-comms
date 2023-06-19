@@ -66,7 +66,7 @@ To effectively prevent a user from signing into the app when the user leaves, yo
 
 #### Method / Endpoint
 ```javascript
-POST /users/:user-email
+POST /users/:user-email/delete
 ```
 
 #### Parameters
