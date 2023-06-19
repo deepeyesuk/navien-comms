@@ -59,14 +59,14 @@ NONE
 <img width="723" alt="image" src="https://user-images.githubusercontent.com/59367560/185818969-dbdbf158-7d5a-4f19-962e-e31500380b23.png">
 
 
-### Cancel User
+### Delete User (CIC)
 (CIC -> Service Agent UK)
 
 To effectively prevent a user from signing into the app when the user leaves, you need to delete their existing user record from both the database and the login system. This action will ensure that the user's account is removed entirely and they will no longer have access to sign in.
 
 #### Method / Endpoint
 ```javascript
-POST /users/:user-email/cancel
+POST /users/:user-email
 ```
 
 #### Parameters
@@ -79,7 +79,7 @@ POST /users/:user-email/cancel
 * 200 OK
 
 
-### Delete User
+### Delete User (App)
 (App -> Service Agent UK)
 
 To effectively prevent a user from signing into the app, you need to delete their existing user record from both the database and the login system. This action will ensure that the user's account is removed entirely and they will no longer have access to sign in.
