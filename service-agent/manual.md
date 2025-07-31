@@ -10,4 +10,6 @@ For your reference, the app stores are like these:
 
 You have to use the same email you received the invitatioin email to. Otherwise, you wouldn't be able to sign up.
 
-Sign up screen
+<img width="300" height="673" alt="image" src="https://github.com/user-attachments/assets/e98da731-beaf-491b-9037-16f5de911526" />
+
+Create Account
