@@ -1,6 +1,10 @@
-BaseUrl: `https://egb17p3twf.execute-api.eu-west-1.amazonaws.com/dev`
-
 ### Create Job
+
+BaseUrl
+
+- Prod: `https://egb17p3twf.execute-api.eu-west-1.amazonaws.com/dev`
+- Test: `https://pawwf1i0m7.execute-api.eu-west-1.amazonaws.com/test`
+
 
 **Endpoint**: `POST /create-job`
 
