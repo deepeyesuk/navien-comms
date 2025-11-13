@@ -6,7 +6,7 @@ BaseUrl
 - Test: `https://pawwf1i0m7.execute-api.eu-west-1.amazonaws.com/test`
 
 
-**Endpoint**: `POST /create-user`
+**Endpoint**: `POST /users`
 
 #### Payload Overview
 | Field | Type | Required | Validation |
